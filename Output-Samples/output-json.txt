@@ -1,0 +1,738 @@
+{
+	"@version": "3.0",
+	"synsets": [
+		{
+			"@source": "dict/data.adj",
+			"@xml:base": "data.adj.xml",
+			"synset": [
+				{
+					"@id": "a00001740",
+					"@type": "a",
+					"lex_filenum": "00",
+					"word": 
+					{
+						"@lex_id": "0",
+						"#text": "able"
+					},
+					"pointer": [
+						{
+							"@refs": "n05200169 n05616246",
+							"#text": "Attribute"
+						},
+						{
+							"@refs": "n05616246 n05200169",
+							"@source": "1",
+							"@target": "1",
+							"#text": "Derivationally related form"
+						},
+						{
+							"@refs": "a00002098",
+							"@source": "1",
+							"@target": "1",
+							"#text": "Antonym"
+						}
+					],
+					"def": "(usually followed by `to') having the necessary means or skill or know-how or authority to do something",
+					"example": [
+							"able to swim",
+							"she was able to program her computer",
+							"we were at last able to buy a car",
+							"able to get a grant for the project"
+					]
+				},
+				{
+					"@id": "a00327541",
+					"@type": "s",
+					"lex_filenum": "00",
+					"word": [
+						{
+							"@lex_id": "0",
+							"#text": "cancellate"
+						},
+						{
+							"@lex_id": "0",
+							"#text": "cancellated"
+						},
+						{
+							"@lex_id": "0",
+							"#text": "cancellous"
+						}
+					],
+					"pointer": [
+						{
+							"@refs": "a00327031",
+							"#text": "Similar to"
+						},
+						{
+							"@refs": "n06057539",
+							"#text": "Domain of synset - TOPIC"
+						}
+					],
+					"def": "having an open or latticed or porous structure"
+				},
+				{
+					"@id": "a00653822",
+					"@type": "a",
+					"lex_filenum": "00",
+					"word": 
+					{
+						"@lex_id": "0",
+						"#text": "crowned"
+					},
+					"pointer": [
+						{
+							"@refs": "a00654829",
+							"@source": "1",
+							"@target": "1",
+							"#text": "Antonym"
+						},
+						{
+							"@refs": "a00654125 a00654315 a00654394 a00654596 a00654685",
+							"#text": "Similar to"
+						}
+					],
+					"def": [
+							"provided with or as if with a crown or a crown as specified",
+							"often used in combination"
+					],
+					"example": [
+							"a high-crowned hat",
+							"an orange-crowned bird",
+							"a crowned signet ring"
+					]
+				},
+				{
+					"@id": "a00995027",
+					"@type": "s",
+					"lex_filenum": "00",
+					"word": 
+					{
+						"@lex_id": "0",
+						"#text": "unsoundable"
+					},
+					"pointer": 
+					{
+						"@refs": "a00994882",
+						"#text": "Similar to"
+					},
+					"def": "too deep to determine the depth of"
+				},
+				{
+					"@id": "a01331540",
+					"@type": "s",
+					"lex_filenum": "00",
+					"word": [
+						{
+							"@lex_id": "0",
+							"#text": "consolidative"
+						},
+						{
+							"@lex_id": "0",
+							"#text": "unifying"
+						}
+					],
+					"pointer": [
+						{
+							"@refs": "a01330986",
+							"#text": "Similar to"
+						},
+						{
+							"@refs": "v00242747 v00242580",
+							"@source": "1",
+							"@target": "1",
+							"#text": "Derivationally related form"
+						}
+					],
+					"def": "combining into a single unit"
+				},
+				{
+					"@id": "a01656416",
+					"@type": "a",
+					"lex_filenum": "00",
+					"word": 
+					{
+						"@lex_id": "0",
+						"#text": "unspaced"
+					},
+					"pointer": [
+						{
+							"@refs": "a01655783",
+							"@source": "1",
+							"@target": "1",
+							"#text": "Antonym"
+						},
+						{
+							"@refs": "a01656520",
+							"#text": "Similar to"
+						}
+					],
+					"def": "arranged without spaces between"
+				},
+				{
+					"@id": "a01988934",
+					"@type": "s",
+					"lex_filenum": "00",
+					"word": 
+					{
+						"@lex_id": "0",
+						"#text": "unbooked"
+					},
+					"pointer": 
+					{
+						"@refs": "a01988724",
+						"#text": "Similar to"
+					},
+					"def": "not reserved in advance"
+				},
+				{
+					"@id": "a02295998",
+					"@type": "a",
+					"lex_filenum": "00",
+					"word": 
+					{
+						"@lex_id": "2",
+						"#text": "standard"
+					},
+					"pointer": [
+						{
+							"@refs": "a01593649",
+							"#text": "Also see"
+						},
+						{
+							"@refs": "n00033615",
+							"#text": "Attribute"
+						},
+						{
+							"@refs": "a02297166",
+							"@source": "1",
+							"@target": "1",
+							"#text": "Antonym"
+						},
+						{
+							"@refs": "a02296415 a02296632 a02296824 a02296950 a02297089",
+							"#text": "Similar to"
+						}
+					],
+					"def": [
+							"conforming to or constituting a standard of measurement or value",
+							"or of the usual or regularized or accepted kind"
+					],
+					"example": [
+							"windows of standard width",
+							"standard sizes",
+							"the standard fixtures",
+							"standard brands",
+							"standard operating procedure"
+					]
+				},
+				{
+					"@id": "a02610603",
+					"@type": "a",
+					"lex_filenum": "01",
+					"word": [
+						{
+							"@lex_id": "0",
+							"#text": "alchemic"
+						},
+						{
+							"@lex_id": "0",
+							"#text": "alchemical"
+						}
+					],
+					"pointer": [
+						{
+							"@refs": "n05778749",
+							"@source": "2",
+							"@target": "1",
+							"#text": "Derivationally related form"
+						},
+						{
+							"@refs": "n05778749",
+							"@source": "2",
+							"@target": "1",
+							"#text": "Pertainym (pertains to noun)"
+						},
+						{
+							"@refs": "n05778749",
+							"@source": "1",
+							"@target": "1",
+							"#text": "Derivationally related form"
+						},
+						{
+							"@refs": "n05778749",
+							"@source": "1",
+							"@target": "1",
+							"#text": "Pertainym (pertains to noun)"
+						}
+					],
+					"def": "related to or concerned with alchemy"
+				},
+				{
+					"@id": "a02874876",
+					"@type": "a",
+					"lex_filenum": "01",
+					"word": [
+						{
+							"@lex_id": "0",
+							"#text": "communist"
+						},
+						{
+							"@lex_id": "0",
+							"#text": "communistic"
+						}
+					],
+					"pointer": [
+						{
+							"@refs": "n08365855 n06214744",
+							"@source": "2",
+							"@target": "1",
+							"#text": "Derivationally related form"
+						},
+						{
+							"@refs": "n06214744",
+							"@source": "2",
+							"@target": "1",
+							"#text": "Pertainym (pertains to noun)"
+						},
+						{
+							"@refs": "n06214744",
+							"@source": "1",
+							"@target": "1",
+							"#text": "Pertainym (pertains to noun)"
+						}
+					],
+					"def": "relating to or marked by communism",
+					"example": [
+							"Communist Party",
+							"communist governments",
+							"communistic propaganda"
+					]
+				}
+			]
+		},
+		{
+			"@source": "dict/data.adv",
+			"@xml:base": "data.adv.xml",
+			"synset": [
+				{
+					"@id": "r00001740",
+					"@type": "r",
+					"lex_filenum": "02",
+					"word": 
+					{
+						"@lex_id": "0",
+						"#text": "a cappella"
+					},
+					"def": "without musical accompaniment",
+					"example": "they performed a cappella"
+				},
+				{
+					"@id": "r00063369",
+					"@type": "r",
+					"lex_filenum": "02",
+					"word": [
+						{
+							"@lex_id": "0",
+							"#text": "let alone"
+						},
+						{
+							"@lex_id": "0",
+							"#text": "not to mention"
+						}
+					],
+					"def": "much less",
+					"example": "she can't boil potatoes, let alone cook a meal"
+				},
+				{
+					"@id": "r00116510",
+					"@type": "r",
+					"lex_filenum": "02",
+					"word": 
+					{
+						"@lex_id": "0",
+						"#text": "together"
+					},
+					"def": "at the same time",
+					"example": "we graduated together"
+				},
+				{
+					"@id": "r00163236",
+					"@type": "r",
+					"lex_filenum": "02",
+					"word": 
+					{
+						"@lex_id": "0",
+						"#text": "gaily"
+					},
+					"pointer": 
+					{
+						"@refs": "a01367431",
+						"@source": "1",
+						"@target": "1",
+						"#text": "Derived from adjective"
+					},
+					"def": "in a gay manner",
+					"example": "the scandals were gaily diverting"
+				},
+				{
+					"@id": "r00212411",
+					"@type": "r",
+					"lex_filenum": "02",
+					"word": [
+						{
+							"@lex_id": "1",
+							"#text": "incidentally"
+						},
+						{
+							"@lex_id": "3",
+							"#text": "accidentally"
+						}
+					],
+					"pointer": 
+					{
+						"@refs": "a01856929",
+						"@source": "1",
+						"@target": "1",
+						"#text": "Derived from adjective"
+					},
+					"def": "of a minor or subordinate nature",
+					"example": "these magnificent achievements were only incidentally influenced by Oriental models"
+				},
+				{
+					"@id": "r00261389",
+					"@type": "r",
+					"lex_filenum": "02",
+					"word": [
+						{
+							"@lex_id": "0",
+							"#text": "agonizingly"
+						},
+						{
+							"@lex_id": "0",
+							"#text": "excruciatingly"
+						},
+						{
+							"@lex_id": "0",
+							"#text": "torturously"
+						}
+					],
+					"pointer": [
+						{
+							"@refs": "a01711724",
+							"@source": "3",
+							"@target": "6",
+							"#text": "Derived from adjective"
+						},
+						{
+							"@refs": "a01711724",
+							"@source": "2",
+							"@target": "3",
+							"#text": "Derived from adjective"
+						},
+						{
+							"@refs": "a01711724",
+							"@source": "1",
+							"@target": "1",
+							"#text": "Derived from adjective"
+						}
+					],
+					"def": "in a very painful manner",
+					"example": "the progress was agonizingly slow"
+				},
+				{
+					"@id": "r00316486",
+					"@type": "r",
+					"lex_filenum": "02",
+					"word": [
+						{
+							"@lex_id": "0",
+							"#text": "dismally"
+						},
+						{
+							"@lex_id": "1",
+							"#text": "dreadfully"
+						}
+					],
+					"pointer": 
+					{
+						"@refs": "a01126291",
+						"@source": "2",
+						"@target": "4",
+						"#text": "Derived from adjective"
+					},
+					"def": "in a dreadful manner",
+					"example": "as he looks at the mess he has left behind he must wonder how the Brits so often managed to succeed in the kind of situation where he has so dismally failed"
+				},
+				{
+					"@id": "r00370920",
+					"@type": "r",
+					"lex_filenum": "02",
+					"word": 
+					{
+						"@lex_id": "0",
+						"#text": "conspicuously"
+					},
+					"pointer": [
+						{
+							"@refs": "r00371171",
+							"@source": "1",
+							"@target": "1",
+							"#text": "Antonym"
+						},
+						{
+							"@refs": "a02090567",
+							"@source": "1",
+							"@target": "3",
+							"#text": "Derived from adjective"
+						}
+					],
+					"def": "in a manner tending to attract attention",
+					"example": "there have been plenty of general declarations about willingness to meet and talk, but conspicuously no mention of time and place"
+				},
+				{
+					"@id": "r00423888",
+					"@type": "r",
+					"lex_filenum": "02",
+					"word": 
+					{
+						"@lex_id": "0",
+						"#text": "rallentando"
+					},
+					"pointer": 
+					{
+						"@refs": "n07020895",
+						"#text": "Domain of synset - TOPIC"
+					},
+					"def": "slowing down",
+					"example": "this passage should be played rallentando"
+				},
+				{
+					"@id": "r00471945",
+					"@type": "r",
+					"lex_filenum": "02",
+					"word": 
+					{
+						"@lex_id": "0",
+						"#text": "surpassingly"
+					},
+					"pointer": 
+					{
+						"@refs": "a01676026",
+						"@source": "1",
+						"@target": "5",
+						"#text": "Derived from adjective"
+					},
+					"def": "to a surpassing degree",
+					"example": "she was a surpassingly beautiful woman"
+				}
+			]
+		},
+		{
+			"@source": "dict/data.noun",
+			"@xml:base": "data.noun.xml",
+			"synset": [
+				{
+					"@id": "n00001740",
+					"@type": "n",
+					"lex_filenum": "03",
+					"word": 
+					{
+						"@lex_id": "0",
+						"#text": "entity"
+					},
+					"pointer": 
+					{
+						"@refs": "n00001930 n00002137 n04424418",
+						"#text": "Hyponym"
+					},
+					"def": "that which is perceived or known or inferred to have its own distinct existence (living or nonliving)"
+				},
+				{
+					"@id": "n01608265",
+					"@type": "n",
+					"lex_filenum": "05",
+					"word": [
+						{
+							"@lex_id": "0",
+							"#text": "honey buzzard"
+						},
+						{
+							"@lex_id": "0",
+							"#text": "Pernis apivorus"
+						}
+					],
+					"pointer": [
+						{
+							"@refs": "n01605630",
+							"#text": "Hypernym"
+						},
+						{
+							"@refs": "n01608086",
+							"#text": "Member holonym"
+						}
+					],
+					"def": "Old World hawk that feeds on bee larvae and small rodents and reptiles"
+				},
+				{
+					"@id": "n03037590",
+					"@type": "n",
+					"lex_filenum": "06",
+					"word": 
+					{
+						"@lex_id": "0",
+						"#text": "clarence"
+					},
+					"pointer": 
+					{
+						"@refs": "n02968473",
+						"#text": "Hypernym"
+					},
+					"def": "a closed carriage with four wheels and seats for four passengers"
+				},
+				{
+					"@id": "n04421740",
+					"@type": "n",
+					"lex_filenum": "06",
+					"word": 
+					{
+						"@lex_id": "0",
+						"#text": "thermojunction"
+					},
+					"pointer": 
+					{
+						"@refs": "n03605915",
+						"#text": "Hypernym"
+					},
+					"def": "a junction between two dissimilar metals across which a voltage appears"
+				},
+				{
+					"@id": "n06013298",
+					"@type": "n",
+					"lex_filenum": "09",
+					"word": 
+					{
+						"@lex_id": "0",
+						"#text": "vector algebra"
+					},
+					"pointer": [
+						{
+							"@refs": "n06012726",
+							"#text": "Hypernym"
+						},
+						{
+							"@refs": "n06000644",
+							"#text": "Domain of synset - TOPIC"
+						},
+						{
+							"@refs": "n06013471",
+							"#text": "Hyponym"
+						}
+					],
+					"def": "the part of algebra that deals with the theory of vectors and vector spaces"
+				},
+				{
+					"@id": "n07581132",
+					"@type": "n",
+					"lex_filenum": "13",
+					"word": 
+					{
+						"@lex_id": "0",
+						"#text": "confit"
+					},
+					"pointer": 
+					{
+						"@refs": "n07653394",
+						"#text": "Hypernym"
+					},
+					"def": "a piece of meat (especially a duck) cooked slowly in its own fat"
+				},
+				{
+					"@id": "n09168592",
+					"@type": "n",
+					"lex_filenum": "15",
+					"word": 
+					{
+						"@lex_id": "0",
+						"#text": "Black Rock Desert"
+					},
+					"pointer": [
+						{
+							"@refs": "n08505573",
+							"#text": "Instance Hypernym"
+						},
+						{
+							"@refs": "n09110422",
+							"#text": "Part holonym"
+						}
+					],
+					"def": "a desert in northwestern Nevada"
+				},
+				{
+					"@id": "n10604089",
+					"@type": "n",
+					"lex_filenum": "18",
+					"word": [
+						{
+							"@lex_id": "0",
+							"#text": "sitting duck"
+						},
+						{
+							"@lex_id": "0",
+							"#text": "easy mark"
+						}
+					],
+					"pointer": 
+					{
+						"@refs": "n10752480",
+						"#text": "Hypernym"
+					},
+					"def": "a defenseless victim"
+				},
+				{
+					"@id": "n12200143",
+					"@type": "n",
+					"lex_filenum": "20",
+					"word": [
+						{
+							"@lex_id": "0",
+							"#text": "looking-glass plant"
+						},
+						{
+							"@lex_id": "0",
+							"#text": "Heritiera littoralis"
+						}
+					],
+					"pointer": 
+					{
+						"@refs": "n13109733",
+						"#text": "Hypernym"
+					},
+					"def": "small tree of coastal regions of Old World tropics whose leaves are silvery beneath"
+				},
+				{
+					"@id": "n13804375",
+					"@type": "n",
+					"lex_filenum": "24",
+					"word": 
+					{
+						"@lex_id": "0",
+						"#text": "paradigm"
+					},
+					"pointer": [
+						{
+							"@refs": "n13803782",
+							"#text": "Hypernym"
+						},
+						{
+							"@refs": "a02965552",
+							"@source": "1",
+							"@target": "1",
+							"#text": "Derivationally related form"
+						}
+					],
+					"def": "systematic arrangement of all the inflected forms of a word"
+				}
+			]
+		}
+	]
+}
